@@ -1,0 +1,50 @@
+h2 {
+  color: red;
+  text-align: center;
+  font-size: 45px;
+}
+p {
+  text-align: center;
+}
+
+.rectangle {
+  width: 100%;
+  height: 40px;
+  background-color: red;
+  position: static;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-size: 45px;
+}
+
+.rectangle {
+  width: 100%;
+  height: 40px;
+  background-color: red;
+  position: static;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+  font-size: 45px;
+}
+
+.rectangle {
+  width: 100%;
+  height: 40px;
+  background-color: red;
+  position: static;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
